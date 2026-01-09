@@ -21,7 +21,7 @@ const HeroSection = () => {
           disableOnInteraction: false,
         }}
         pagination={{ clickable: true }}
-        effect="fade" // Smooth fade transition – great for hero sliders
+        effect="fade" 
         speed={1000}
         className="slider-bg"
       >
@@ -30,7 +30,6 @@ const HeroSection = () => {
           <div
             className="slide-img"
             style={{
-              // backgroundImage: `url(/src/assets/images/slides/home-bg-1.jpg)`,
               backgroundImage: `url(/images/slides/home-bg-1.jpg)`,
               backgroundPosition: 'center center',
               backgroundSize: 'cover',
@@ -61,7 +60,7 @@ const HeroSection = () => {
           <div
             className="slide-img"
             style={{
-              backgroundImage: `url(/src/assets/images/slides/home-bg-2.jpg)`,
+              backgroundImage: `url(/images/slides/home-bg-2.jpg)`,
               backgroundPosition: 'center center',
               backgroundSize: 'cover',
               backgroundRepeat: 'no-repeat',
@@ -89,7 +88,7 @@ const HeroSection = () => {
           <div
             className="slide-img"
             style={{
-              backgroundImage: `url(/src/assets/images/slides/home-bg-3.jpg)`,
+              backgroundImage: `url(/images/slides/home-bg-3.jpg)`,
               backgroundPosition: 'center center',
               backgroundSize: 'cover',
               backgroundRepeat: 'no-repeat',

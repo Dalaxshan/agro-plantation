@@ -78,7 +78,7 @@ const OurPlantationWhoWeSection = () => {
           <div className="col-md-6">
             <img
               className="img-responsive"
-              src="/src/assets/images/our-plantations.png"
+              src="//images/our-plantations.png"
                           alt="our-plantations-img"
                          style={{
     width: "100%",

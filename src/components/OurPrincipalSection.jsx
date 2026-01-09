@@ -51,7 +51,7 @@ const OurPrincipalSection = () => {
         <div className="col-md-4 wow fadeInUp col-sm-12" data-wow-delay="0.2s">
           <img
             className="img-responsive"
-            src="src/assets/images/slides/flower.png"
+            src="/images/slides/flower.png"
             alt="iphone-big"
           />
         </div>

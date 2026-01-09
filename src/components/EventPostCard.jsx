@@ -8,7 +8,7 @@ const EventPostCard = ({ title, date, excerpt, images = [], link = "#" }) => {
       <div className="post-img">
         <img
           className="img-responsive"
-          src={images[0] || "src/assets/images/events/post-01.jpg"}
+          src={images[0] || "/images/events/post-01.jpg"}
           alt={title}
         />
       </div>

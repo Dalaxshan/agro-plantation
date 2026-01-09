@@ -6,7 +6,7 @@ const EventsHeaderSection = () => {
           className="parallax-img"
           style={{
             background:
-              "url('src/assets/images/paralax/paralax-bg-event.png') center center / cover scroll no-repeat",
+              "url('/images/paralax/paralax-bg-event.png') center center / cover scroll no-repeat",
           }}
         />
         <div className="hero-text-wrap video-alpha">

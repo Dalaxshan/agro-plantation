@@ -6,7 +6,7 @@ const AboutMeSection = () => {
           <div className="col-md-6">
             <img
               className="img-responsive"
-              src="/src/assets/images/lawyer-img.png"
+              src="/images/lawyer-img.png"
               alt="lawyer-img"
             />
           </div>

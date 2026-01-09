@@ -15,7 +15,7 @@ const eventsData = [
       "The ice cream festival made using natural vanilla, organized by Agro Ventures ....",
     brief:
       "The ice cream festival made using natural vanilla, organized by Agro Ventures Plantations Limited to mark the Vesak festival, was held on 12.05.2025 in front of the Agro Ventures head office in Battaramulla.🍦",
-    images: ["src/assets/images/events/post-01.jpg"],
+    images: ["/images/events/post-01.jpg"],
   },
   {
     id: 2,
@@ -50,9 +50,9 @@ const eventsData = [
     <p style="text-align: center; font-size: 1.4em; margin-top: 40px;"><strong>Together, we grow stronger. Together, we make a difference.</strong> 💚</p>
   `,
     images: [
-      "src/assets/images/events/post-01.jpg",
-      "src/assets/images/events/post-02.jpg",
-      "src/assets/images/events/post-03.jpg",
+      "/images/events/post-01.jpg",
+      "/images/events/post-02.jpg",
+      "/images/events/post-03.jpg",
     ],
   },
   {
@@ -62,7 +62,7 @@ const eventsData = [
     brief: `<p>We are delighted to announce the successful inauguration of our 3rd Matara branch office by our honorable chairman, Mr. Nilanga Karunarathna. The event took place on our new premises and was graced by the presence of our dedicated staff members and esteemed customers.<p/><p>This significant milestone marks another step in our continued growth and commitment to serving our community. We extend our heartfelt gratitude to everyone who attended and contributed to making this event a memorable success.</p>`,
     excerpt:
       "Inauguration of our 3rd Matara branch office by our honorable chairman, Mr. Nilanga Karunarathna...",
-    images: ["src/assets/images/events/post-01.jpg"],
+    images: ["/images/events/post-01.jpg"],
   },
   {
     id: 4,
@@ -81,7 +81,7 @@ const eventsData = [
     <p style="text-align: center; font-size: 1em; margin-top: 40px;"><strong>Together, we've achieved remarkable milestones, and the future looks even brighter!</strong></p>`,
     excerpt:
       "We are thrilled to mark the 1st anniversary of the Southern Zone of Agroventures Plantations Pvt Ltd....",
-    images: ["src/assets/images/events/post-01.jpg"],
+    images: ["/images/events/post-01.jpg"],
   },
   {
     id: 5,
@@ -90,7 +90,7 @@ const eventsData = [
     brief:
       "We are thrilled to announce the inauguration of our new Western Zonal Office in Kottawa! With the gracious presence of our beloved Chairman, Mr. Nilanga Karunarathne, and our dedicated Senior Management and islandwide Management team, we celebrated the opening on 3rd November 2023.",
     excerpt: "We are thrilled to announce the inauguration of our new ...",
-    images: ["src/assets/images/events/post-02.jpg"],
+    images: ["/images/events/post-02.jpg"],
   },
   {
     id: 6,
@@ -100,7 +100,7 @@ const eventsData = [
       "Vanilla Ice Cream Dansala was held on 21st June, using natural organic vanilla extract from Agro Ventures estates without artificial sweeteners",
     excerpt:
       "Vanilla Ice Cream Dansala was held on 21st June, using natural organic vanilla extract from ...",
-    images: ["src/assets/images/events/post-03.jpg"],
+    images: ["/images/events/post-03.jpg"],
   },
   {
     id: 7,
@@ -110,7 +110,7 @@ const eventsData = [
     brief:
       "Our company's Human Resource Development Division providing dry food and other essential items for the welfare of the families of those working in our field for the beginning of the new year 2024. It was held symbolically in estates. Our employee welfare is our priority!",
     excerpt: "Our company's HR Development providing dry food and other...",
-    images: ["src/assets/images/events/post-03.jpg"],
+    images: ["/images/events/post-03.jpg"],
   },
   {
     id: 8,
@@ -127,7 +127,7 @@ const eventsData = [
     </p> `,
     excerpt:
       "This special occasion is dedicated to honoring the hard work and ...",
-    images: ["src/assets/images/events/post-03.jpg"],
+    images: ["/images/events/post-03.jpg"],
   },
   {
     id: 9,
@@ -137,7 +137,7 @@ const eventsData = [
       "Agroventures Plantations celebrated their annual sales convention at Monarch Imperial in a glitzy explosion of colour and flair as they celebrated their sales staff in style on 22 February. ",
     excerpt:
       "Agroventures Plantations celebrated their annual sales convention at Monarch Imperial in a glitzy explosion ...",
-    images: ["src/assets/images/events/post-03.jpg"],
+    images: ["/images/events/post-03.jpg"],
   },
   {
     id: 10,
@@ -153,7 +153,7 @@ const eventsData = [
     </p>`,
     excerpt:
       "Ice Cream Dansala organized for 2nd consecutive year by agroventures plantations using own cultivations from vanilla plantations...",
-    images: ["src/assets/images/events/post-03.jpg"],
+    images: ["/images/events/post-03.jpg"],
   },
 ];
 

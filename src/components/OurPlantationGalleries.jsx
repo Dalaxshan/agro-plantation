@@ -4,37 +4,37 @@ import PlantationGalleryItem from "./PlantationGalleryItem"; // Adjust path if n
 const OurPlantationGalleries = () => {
   const galleryImages = [
     {
-      src: "src/assets/images/portfolio/grid/1.jpg",
+      src: "/images/portfolio/grid/1.jpg",
       alt: "Palapathwala Estate",
       title: "Palapathwala",
       groups: ["all", "palapathwala"],
     },
     {
-      src: "src/assets/images/portfolio/grid/2.jpg",
+      src: "/images/portfolio/grid/2.jpg",
       alt: "Matale Estate",
       title: "Matale Estate",
       groups: ["all", "matale"],
     },
     {
-      src: "src/assets/images/portfolio/grid/3.jpg",
+      src: "/images/portfolio/grid/3.jpg",
       alt: "Laggala Estate",
       title: "Laggala Estate",
       groups: ["all", "laggala"],
     },
     {
-      src: "src/assets/images/portfolio/grid/4.jpg",
+      src: "/images/portfolio/grid/4.jpg",
       alt: "Salagama Plantation",
       title: "Salagama",
       groups: ["all", "salagama"],
     },
     {
-      src: "src/assets/images/portfolio/grid/5.jpg",
+      src: "/images/portfolio/grid/5.jpg",
       alt: "Gampola Estate",
       title: "Gampola Estate",
       groups: ["all", "gampola"],
     },
     {
-      src: "src/assets/images/portfolio/grid/6.jpg",
+      src: "/images/portfolio/grid/6.jpg",
       alt: "Gawatamuna Plantation",
       title: "Gawatamuna",
       groups: ["all", "gawatamuna"],
