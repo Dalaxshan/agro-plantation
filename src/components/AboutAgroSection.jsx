@@ -8,7 +8,7 @@ const AboutAgroSection = () => {
   };
 
   return (
-    <section className="white-bg" id="about">
+    <section className="white-bg  pb-50 pt-50" id="about">
       <div className="container">
         <div className="row">
           <div className="col-md-6 pt-60 pb-60">
@@ -84,8 +84,9 @@ const AboutAgroSection = () => {
 
       {/* Parallax Start */}
       <section
-        className="parallax-bg-16 fixed-bg nature-section"
+        className="parallax-bg-16 fixed-bg nature-section pt-60 pb-60"
         data-stellar-background-ratio="0.2"
+        style={{backgroundColor:"#2a5d34"}}
       >
         <div className="overlay-bg" />
         <div className="container">

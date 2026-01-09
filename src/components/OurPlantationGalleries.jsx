@@ -42,7 +42,7 @@ const OurPlantationGalleries = () => {
   ];
 
   return (
-    <section className="pt-0 pb-60 white-bg">
+    <section className="pt-50 pb-50 white-bg">
       <div className="container">
         <div className="text-center mb-50">
           <h4 className="text-uppercase">Agro Ventures</h4>

@@ -42,11 +42,11 @@ const Footer = () => {
               <div className="widget widget-links">
                 <h5 className="widget-title">Useful Links</h5>
                 <ul>
+                  <li><Link to="/events">Events</Link></li>
                   <li><Link to="/about-us">About Us</Link></li>
                   <li><Link to="/contact-us">Contact Us</Link></li>
+                   <li><Link to="/our-plantations">Our Plantations</Link></li>
                   <li><Link to="/branch-network">Branch Network</Link></li>
-                  <li><Link to="/cultivation-plan">Cultivation Plan</Link></li>
-                  <li><Link to="/our-plantations">Our Plantations</Link></li>
                 </ul>
               </div>
             </div>

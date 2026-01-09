@@ -2,16 +2,16 @@ const OurPrincipalSection = () => {
     return (
         <>
   {/* Our Principal Virtues Start */}
-  <section className="pb-0" id="feature">
-    <div className="container">
+  <div id="feature" >
+    <div className="container pt-50 pb-0">
       <div className="row">
         <div className="row">
-          <div className="col-sm-8 section-heading">
+          <div className="col-sm-8 section-heading pb-0">
             <h1 className="dark-green-color">
               <i className="mdi mdi-leaf" style={{ marginRight: "10px" }} />
               Our 
             </h1>
-            <h2 className="mt-10 oswald-font font-100">Principal Virtues</h2>
+            <h2 className="oswald-font font-100">Principal Virtues</h2>
           </div>
         </div>
       </div>
@@ -88,7 +88,7 @@ const OurPrincipalSection = () => {
         </div>
       </div>
     </div>
-  </section>
+  </div>
   {/* Our Principal Virtues End */}
 </>
     );

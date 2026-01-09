@@ -18,13 +18,12 @@ const ContactUsSection = () => {
           <div className="hero-text-wrap video-alpha">
             <div className="hero-text white-color">
               <div className="container text-center">
-            
                 <h1 className="white-color oswald-font text-uppercase">
                   Contact Us
                 </h1>
-                 <h3 className="white-color oswald-font font-30px text-uppercase">
-               Connecting to The Agro ventures World
-              </h3>
+                <h3 className="white-color oswald-font font-30px text-uppercase">
+                  Connecting to The Agro ventures World
+                </h3>
               </div>
             </div>
           </div>
@@ -34,7 +33,7 @@ const ContactUsSection = () => {
       {/* Page Title Section End */}
 
       {/* Contact Us Start */}
-      <section className="contact-us">
+      <section className="contact-us pt-50 pb-50">
         <div className="container">
           <OurBrandsSection />
           <div className="row mt-0">

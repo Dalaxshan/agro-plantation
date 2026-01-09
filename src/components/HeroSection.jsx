@@ -66,7 +66,7 @@ const HeroSection = () => {
               backgroundRepeat: 'no-repeat',
             }}
           />
-          <div className="hero-text-wrap gradient-overlay-bg">
+          <div className="hero-text-wrap">
             <div className="hero-text white-color">
               <div className="container text-center">
                 <h2 className="font-100">Premium Quality</h2>
@@ -99,10 +99,10 @@ const HeroSection = () => {
               <div className="container text-center">
                 <h2 className="font-100">Invest in</h2>
                 <h1 className="font-600">Sri Lanka's Future</h1>
-                <h3 className="mt-30">
+                {/* <h3 className="mt-30">
                   <span className="font-700">SUSTAINABLE AGRICULTURE</span> with{' '}
                   <span className="font-700">GUARANTEED RETURNS</span>
-                </h3>
+                </h3> */}
                 <p className="text-center mt-30">
                   <Link to="/contact-us" className="btn btn-outline-white btn-circle">Join Us Today</Link>{' '}
                   <Link to="/about-us" className="btn btn-white btn-circle">Learn More</Link>

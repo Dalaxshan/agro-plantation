@@ -4,7 +4,7 @@ const WeAgroSection = () => {
   return (
     <>
       {/* Who We Are Start */}
-      <section className="first-ico-box grey-bg" id="about">
+      <section className="first-ico-box grey-bg pt-50 pb-50" id="about">
         <div className="container">
           <div className="row">
             <div className="col-sm-8 section-heading">

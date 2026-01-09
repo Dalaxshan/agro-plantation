@@ -9,7 +9,7 @@ import 'swiper/css/navigation';
 
 const TestimonialSection = () => {
   return (
-    <section className="parallax-bg-9 fixed-bg" data-stellar-background-ratio="0.2">
+    <section className="parallax-bg-9 fixed-bg pt-50 pb-50" data-stellar-background-ratio="0.2">
       <div className="parallax-overlay" />
       <div className="container">
         <div className="row">
