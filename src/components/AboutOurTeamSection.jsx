@@ -21,7 +21,7 @@ const AboutOurTeamSection = () => {
               <div className="team-member-container">
                 {" "}
                 <img
-                  src="src/assets/images/team/team-01.jpg"
+                  src="/images/team/team-01.jpg"
                   className="img-responsive"
                   alt="team-01"
                 />
@@ -59,7 +59,7 @@ const AboutOurTeamSection = () => {
               <div className="team-member-container">
                 {" "}
                 <img
-                  src="src/assets/images/team/team-02.jpg"
+                  src="/images/team/team-02.jpg"
                   className="img-responsive"
                   alt="team-02"
                 />
@@ -97,7 +97,7 @@ const AboutOurTeamSection = () => {
               <div className="team-member-container">
                 {" "}
                 <img
-                  src="src/assets/images/team/team-03.jpg"
+                  src="/images/team/team-03.jpg"
                   className="img-responsive"
                   alt="team-03"
                 />
@@ -135,7 +135,7 @@ const AboutOurTeamSection = () => {
               <div className="team-member-container">
                 {" "}
                 <img
-                  src="src/assets/images/team/team-04.jpg"
+                  src="/images/team/team-04.jpg"
                   className="img-responsive"
                   alt="team-03"
                 />
@@ -175,7 +175,7 @@ const AboutOurTeamSection = () => {
               <div className="team-member-container">
                 {" "}
                 <img
-                  src="src/assets/images/team/team-05.jpg"
+                  src="/images/team/team-05.jpg"
                   className="img-responsive"
                   alt="team-03"
                 />
@@ -215,7 +215,7 @@ const AboutOurTeamSection = () => {
               <div className="team-member-container">
                 {" "}
                 <img
-                  src="src/assets/images/team/team-06.jpg"
+                  src="/images/team/team-06.jpg"
                   className="img-responsive"
                   alt="team-03"
                 />
@@ -255,7 +255,7 @@ const AboutOurTeamSection = () => {
               <div className="team-member-container">
                 {" "}
                 <img
-                  src="src/assets/images/team/team-07.jpg"
+                  src="/images/team/team-07.jpg"
                   className="img-responsive"
                   alt="team-03"
                 />
@@ -295,7 +295,7 @@ const AboutOurTeamSection = () => {
               <div className="team-member-container">
                 {" "}
                 <img
-                  src="src/assets/images/team/team-08.jpg"
+                  src="/images/team/team-08.jpg"
                   className="img-responsive"
                   alt="team-08"
                 />

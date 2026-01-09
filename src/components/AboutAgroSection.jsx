@@ -75,7 +75,7 @@ const AboutAgroSection = () => {
           <div className="col-md-6">
             <img
               className="img-responsive"
-              src="/src/assets/images/about-nature.jpg"
+              src="/images/about-nature.jpg"
               alt="nature-img"
             />
           </div>

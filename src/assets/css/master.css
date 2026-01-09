@@ -455,7 +455,7 @@ nav.bootsnav.navbar-sidebar ul.nav {
 }
 
 .parallax-bg-16 {
-  background: url(src/assets/images/parallax-bg-16.png) center 0 no-repeat;
+  background: url(../assets/images/parallax-bg-16.png) center 0 no-repeat;
   background-size: cover;
 }
 

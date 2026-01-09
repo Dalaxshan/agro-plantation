@@ -31,7 +31,7 @@ const TestimonialSection = () => {
               <div className="testimonial-item text-center">
                 {/* Add a real testimonial image here */}
                 <img
-                  src="src/assets/images/clients/team-14.jpg" 
+                  src="/images/clients/team-14.jpg" 
                   alt="Jazz Smith"
                   className="testimonial-img"
                 />
@@ -50,7 +50,7 @@ const TestimonialSection = () => {
             <SwiperSlide>
               <div className="testimonial-item text-center">
                 <img
-                  src="src/assets/images/clients/team-15.jpg"
+                  src="/images/clients/team-15.jpg"
                   alt="Shawn Smith"
                   className="testimonial-img"
                 />
@@ -69,7 +69,7 @@ const TestimonialSection = () => {
             <SwiperSlide>
               <div className="testimonial-item text-center">
                 <img
-                  src="src/assets/images/clients/team-16.jpg"
+                  src="/images/clients/team-16.jpg"
                   alt="Susan Smith"
                   className="testimonial-img"
                 />

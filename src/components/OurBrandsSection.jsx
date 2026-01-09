@@ -36,53 +36,53 @@ const OurBrandsSection = () => {
           {/* Replace with your actual logo paths */}
           <SwiperSlide>
             <div className="client-logo">
-              <img src="/src/assets/images/clients/1.png" alt="Brand 1" className="img-responsive" />
+              <img src="/images/clients/1.png" alt="Brand 1" className="img-responsive" />
             </div>
           </SwiperSlide>
           <SwiperSlide>
             <div className="client-logo">
-              <img src="/src/assets/images/clients/2.png" alt="Brand 2" className="img-responsive" />
+              <img src="/images/clients/2.png" alt="Brand 2" className="img-responsive" />
             </div>
           </SwiperSlide>
           {/* Repeat for all 10 */}
           <SwiperSlide>
             <div className="client-logo">
-              <img src="/src/assets/images/clients/3.png" alt="Brand 3" className="img-responsive" />
+              <img src="/images/clients/3.png" alt="Brand 3" className="img-responsive" />
             </div>
           </SwiperSlide>
           <SwiperSlide>
             <div className="client-logo">
-              <img src="/src/assets/images/clients/4.png" alt="Brand 4" className="img-responsive" />
+              <img src="/images/clients/4.png" alt="Brand 4" className="img-responsive" />
             </div>
           </SwiperSlide>
           <SwiperSlide>
             <div className="client-logo">
-              <img src="/src/assets/images/clients/5.png" alt="Brand 5" className="img-responsive" />
+              <img src="/images/clients/5.png" alt="Brand 5" className="img-responsive" />
             </div>
           </SwiperSlide>
           <SwiperSlide>
             <div className="client-logo">
-              <img src="/src/assets/images/clients/6.png" alt="Brand 6" className="img-responsive" />
+              <img src="/images/clients/6.png" alt="Brand 6" className="img-responsive" />
             </div>
           </SwiperSlide>
           <SwiperSlide>
             <div className="client-logo">
-              <img src="/src/assets/images/clients/7.png" alt="Brand 7" className="img-responsive" />
+              <img src="/images/clients/7.png" alt="Brand 7" className="img-responsive" />
             </div>
           </SwiperSlide>
           <SwiperSlide>
             <div className="client-logo">
-              <img src="/src/assets/images/clients/8.png" alt="Brand 8" className="img-responsive" />
+              <img src="/images/clients/8.png" alt="Brand 8" className="img-responsive" />
             </div>
           </SwiperSlide>
           <SwiperSlide>
             <div className="client-logo">
-              <img src="/src/assets/images/clients/9.png" alt="Brand 9" className="img-responsive" />
+              <img src="/images/clients/9.png" alt="Brand 9" className="img-responsive" />
             </div>
           </SwiperSlide>
           <SwiperSlide>
             <div className="client-logo">
-              <img src="/src/assets/images/clients/10.png" alt="Brand 10" className="img-responsive" />
+              <img src="/images/clients/10.png" alt="Brand 10" className="img-responsive" />
             </div>
           </SwiperSlide>
         </Swiper>

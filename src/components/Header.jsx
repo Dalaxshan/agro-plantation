@@ -71,12 +71,12 @@ const Header = () => {
             <Link to="/" className="logo navbar-brand">
               <img
                 className="logo logo-display"
-                src="/src/assets/images/logo-white.png"
+                src="/images/logo-white.png"
                 alt=""
               />
               <img
                 className="logo logo-scrolled"
-                src="/src/assets/images/logo-black.png"
+                src="/images/logo-black.png"
                 alt=""
               />
             </Link>

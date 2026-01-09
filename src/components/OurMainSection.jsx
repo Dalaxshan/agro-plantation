@@ -43,14 +43,14 @@ const OurMainSection = () => {
                 <div className="col-md-6 mb-20 col-sm-6">
                   <img
                     className="img-responsive"
-                    src="src/assets/images/vanila-1.png"
+                    src="/images/vanila-1.png"
                     alt="vanila-img"
                   />
                 </div>
                 <div className="col-md-6 col-sm-6">
                   <img
                     className="img-responsive"
-                    src="src/assets/images/food-img-01.jpg"
+                    src="/images/food-img-01.jpg"
                     alt="vanila-img"
                   />
                 </div>

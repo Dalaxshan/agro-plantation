@@ -12,7 +12,7 @@ const ContactUsSection = () => {
             className="parallax-img"
             style={{
               background:
-                "url(src/assets/images/paralax/contact-green.png) center center / cover scroll no-repeat",
+                "url(/images/paralax/contact-green.png) center center / cover scroll no-repeat",
             }}
           />
           <div className="hero-text-wrap video-alpha">

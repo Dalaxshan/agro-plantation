@@ -18,7 +18,7 @@ const EventDetailSection = () => {
     date: "December 26, 2024",
     excerpt:
       "Curabitur quis faucibus odio, nec accumsan erat. Duis id ante convallis magna mattis pulvinar eu ut ipsum. Donec at leo id tortor mattis tempus...",
-    images: ["src/assets/images/events/post-03.jpg"],
+    images: ["/images/events/post-03.jpg"],
   };
 
   const currentEvent = eventData || defaultData;

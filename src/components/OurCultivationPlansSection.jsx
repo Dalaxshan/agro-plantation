@@ -38,7 +38,7 @@ const OurCultivationPlansSection = () => {
             <div className="box bordered white-bg box-shadow-hover">
               <div className="mb-30 text-center">
                 <img
-                  src="src/assets/images/vanila-gold.png"
+                  src="/images/vanila-gold.png"
                   className="img-circle"
                   alt="img-1"
                 />
@@ -241,7 +241,7 @@ const OurCultivationPlansSection = () => {
             <div className="box bordered white-bg box-shadow-hover">
               <div className="mb-30 text-center">
                 <img
-                  src="src/assets/images/vanila-triple.png"
+                  src="/images/vanila-triple.png"
                   className="img-circle"
                   alt="img-1"
                 />

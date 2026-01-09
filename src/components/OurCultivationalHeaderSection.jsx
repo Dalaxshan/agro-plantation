@@ -4,7 +4,7 @@ const OurCultivationHeaderSection = () => {
   return (
     <section className="pt-0 pb-0" id="home">
   <div className="full-screen-bg">
-    <div className="parallax-img" style={{background: 'url(src/assets/images/paralax/cultivation-bg.jpg) center center / cover scroll no-repeat'}} />
+    <div className="parallax-img" style={{background: 'url(/images/paralax/cultivation-bg.jpg) center center / cover scroll no-repeat'}} />
     <div className="hero-text-wrap">
       <div className="hero-text white-color">
         <div className="container text-center">
