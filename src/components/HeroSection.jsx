@@ -30,7 +30,8 @@ const HeroSection = () => {
           <div
             className="slide-img"
             style={{
-              backgroundImage: `url(/src/assets/images/slides/home-bg-1.jpg)`,
+              // backgroundImage: `url(/src/assets/images/slides/home-bg-1.jpg)`,
+              backgroundImage: `url(/images/slides/home-bg-1.jpg)`,
               backgroundPosition: 'center center',
               backgroundSize: 'cover',
               backgroundRepeat: 'no-repeat',
