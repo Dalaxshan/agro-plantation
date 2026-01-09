@@ -94,7 +94,7 @@ const branches = [
 
 const BranchTabsSection = () => {
   return (
-    <section className="white-bg">
+    <section className="white-bg pt-50 pb-50">
       <div className="container">
         <div className="col-sm-8 section-heading">
           <h1 className="dark-green-color">

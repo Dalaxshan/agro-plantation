@@ -1,8 +1,10 @@
+import { Link } from "react-router-dom";
+
 const OverseaSection = () => {
   return (
     <>
       {/* Overseas Start */}
-      <section>
+      <section className="pt-50 pb-50">
         <div className="clearfix">
           <div className="about-us-bg bg-flex col-md-6" />
           <div className="col-about-right col-md-6 col-md-offset-6">
@@ -33,11 +35,11 @@ const OverseaSection = () => {
               </p>
             </div>
             <div className="mt-30">
-              <a className="btn btn-color btn-circle btn-animate">
+              <Link to="/contact-us" className="btn btn-color btn-circle btn-animate">
                 <span>
                   Let's Talk <i className="fa fa-rocket" />
                 </span>
-              </a>
+              </Link>
             </div>
           </div>
         </div>

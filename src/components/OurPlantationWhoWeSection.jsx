@@ -8,7 +8,7 @@ const OurPlantationWhoWeSection = () => {
   };
 
   return (
-    <section className="white-bg" id="about">
+    <section className="grey-bg pt-50 pb-50" id="about">
       <div className="container">
         <div className="row">
           <div className="col-md-6 pt-0 pb-60">
@@ -78,20 +78,19 @@ const OurPlantationWhoWeSection = () => {
           <div className="col-md-6">
             <img
               className="img-responsive"
-              src="//images/our-plantations.png"
-                          alt="our-plantations-img"
-                         style={{
-    width: "100%",
-    height: "auto",
-    maxHeight: "400px",  
-    objectFit: "contain",  
-    borderRadius: "8px", 
-  }}
+              src="/images/our-plantations.png"
+              alt="our-plantations-img"
+              style={{
+                width: "100%",
+                height: "auto",
+                maxHeight: "400px",
+                objectFit: "contain",
+                borderRadius: "8px",
+              }}
             />
           </div>
         </div>
       </div>
-
     </section>
   );
 };

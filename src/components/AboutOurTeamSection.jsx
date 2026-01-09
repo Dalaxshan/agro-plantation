@@ -1,6 +1,6 @@
 const AboutOurTeamSection = () => {
   return (
-    <section className="pt-60 pb-60">
+    <section className="pt-50 pb-50">
       <div className="container">
         <div className="row">
           <div className="col-sm-8 section-heading">

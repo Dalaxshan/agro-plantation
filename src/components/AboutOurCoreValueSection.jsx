@@ -2,7 +2,7 @@ import React from "react";
 
 const AboutOurCoreValueSection = () => {
   return (
-    <section className="white-bg">
+    <section className="white-bg pb-50 pt-50">
       <div className="container">
         <div className="row">
           <div className="col-sm-8 section-heading ">

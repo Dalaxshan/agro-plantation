@@ -1,8 +1,10 @@
+import { Link } from "react-router-dom";
+
 const OurMainSection = () => {
   return (
     <>
       {/* Our Main produce start */}
-      <section className="grey-bg" id="about">
+      <section className="grey-bg pt-50 pb-50" id="about">
         <div className="container">
           <div className="row">
             <div className="col-sm-8 section-heading">
@@ -33,9 +35,9 @@ const OurMainSection = () => {
                 Exporter while providing the best returns to our customers.
               </p>
               <p className="mt-30">
-                <a href="#" className="btn btn-color btn-circle">
+                <Link to="/about-us" className="btn btn-color btn-circle">
                   Learn More
-                </a>
+                </Link>
               </p>
             </div>
             <div className="col-md-6">
@@ -43,14 +45,14 @@ const OurMainSection = () => {
                 <div className="col-md-6 mb-20 col-sm-6">
                   <img
                     className="img-responsive"
-                    src="/images/vanila-1.png"
+                    src="/images/vanila-gold.png"
                     alt="vanila-img"
                   />
                 </div>
                 <div className="col-md-6 col-sm-6">
                   <img
                     className="img-responsive"
-                    src="/images/food-img-01.jpg"
+                    src="/images/vanila-triple.png"
                     alt="vanila-img"
                   />
                 </div>

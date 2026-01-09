@@ -1,6 +1,6 @@
 const AboutGreatPlaceSection = () => {
   return (
-    <section className="main-section">
+    <section className="main-section pb-50 pt-50">
       <div className="container">
         <div className="row">
           <div className="col-sm-8 section-heading">
