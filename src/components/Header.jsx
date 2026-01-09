@@ -93,13 +93,13 @@ const Header = () => {
                 <Link to="/">Home</Link>
               </li>
 
-              <li class="dropdown">
+              <li className="dropdown">
                 {" "}
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                <a href="#" className="dropdown-toggle" data-toggle="dropdown">
                   About us
                 </a>
-                <ul class="dropdown-menu">
-                  <li class="dropdown"> </li>
+                <ul className="dropdown-menu">
+                  <li className="dropdown"> </li>
 
                   <li>
                     <Link to="/about-us">About company</Link>
