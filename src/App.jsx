@@ -9,14 +9,14 @@ function App() {
   return (
     <Router>
       {/* Loader */}
-      {/* <div id="loader-overlay">
+      <div id="loader-overlay">
         <div className="loader-wrapper">
           <div className="alpha-dots">
             <div className="alpha-child alpha-dot1"></div>
             <div className="alpha-child alpha-dot2"></div>
           </div>
         </div>
-      </div> */}
+      </div>
       {/* End Loader */}
 
       <Header />
