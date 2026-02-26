@@ -37,12 +37,12 @@ const AboutMeSection = () => {
                 style={{ position: "relative", display: "inline-block" }}
               >
                 <p
-                  className="great-font font-35px dark-green-color mb-0"
+                  className="font-35px dark-green-color mb-0"
                   style={{ transform: "rotate(-2deg)", fontWeight: "bold" }}
                 >
-                  ~ Nilanga Karunarathne
+                  Mr. Nilanga Karunarathne
                 </p>
-                <div
+                {/* <div
                   style={{
                     position: "absolute",
                     bottom: "-5px",
@@ -52,7 +52,7 @@ const AboutMeSection = () => {
                     background:
                       "linear-gradient(to right, #004D4D, transparent)",
                   }}
-                ></div>
+                ></div> */}
               </div>
             </div>
           </div>
