@@ -16,7 +16,7 @@ const AboutMeSection = () => {
               Director Message
             </h1>
             <p className="mt-20">
-              As the Founder of Agroventures Exports, I am filled with immense
+              As the Founder of Agroventures Plantations, I am filled with immense
               pride and gratitude for the journey we have undertaken together.
               From the very inception of this company, our vision was clear - to
               revolutionize Sri Lanka's agricultural landscape by fostering
