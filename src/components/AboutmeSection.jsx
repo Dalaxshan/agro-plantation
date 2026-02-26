@@ -6,8 +6,8 @@ const AboutMeSection = () => {
           <div className="col-md-6">
             <img
               className="img-responsive"
-              src="/images/lawyer-img.png"
-              alt="lawyer-img"
+              src="/images/director.jpg"
+              alt="director-img"
             />
           </div>
           <div className="col-md-6 text-left mb-20 mt-50">
@@ -16,23 +16,43 @@ const AboutMeSection = () => {
               Director Message
             </h1>
             <p className="mt-20">
-              Etiam eget felis sit amet nunc euismod laoreet. Nunc congue
-              sollicitudin bibendum. Pellentesque ut sollicitudin erat. Proin in
-              tincidunt nisl. Class aptent taciti sociosqu ad litora torquent
-              per conubia nostra, per inceptos himenaeos. Cras posuere interdum
-              est non malesuada. Ut quis aliquam ipsum. Phasellus viverra ipsum
-              velit, in ultrices orci commodo ullamcorper. Ut laoreet vel mi
-              eget fringilla.
+              As the Founder of Agroventures Exports, I am filled with immense
+              pride and gratitude for the journey we have undertaken together.
+              From the very inception of this company, our vision was clear - to
+              revolutionize Sri Lanka's agricultural landscape by fostering
+              sustainability, empowering communities, and delivering exceptional
+              produce to the world
             </p>
             <p className="mt-20">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean
-              vitae enim neque. Pellentesque habitant morbi tristique senectus
-              et netus et malesuada fames ac turpis egestas.
+              Today, I stand humbled by the strides we have made and the impact
+              we have created. Our commitment to sustainable practices has not
+              only yielded premium crops but has also preserved the precious
+              environment that sustains us. We have demonstrated that
+              responsible agriculture can be a powerful force for positive
+              change, benefitting both farmers and consumers alike.
             </p>
             <div className="mt-30">
-              <div className="signature-wrapper" style={{position: 'relative', display: 'inline-block'}}>
-                <p className="great-font font-35px dark-green-color mb-0" style={{transform: 'rotate(-2deg)', fontWeight: 'bold'}}>~ Nilanka Karunarathne</p>
-                <div style={{position: 'absolute', bottom: '-5px', left: '20px', width: '200px', height: '2px', background: 'linear-gradient(to right, #004D4D, transparent)'}}></div>
+              <div
+                className="signature-wrapper"
+                style={{ position: "relative", display: "inline-block" }}
+              >
+                <p
+                  className="great-font font-35px dark-green-color mb-0"
+                  style={{ transform: "rotate(-2deg)", fontWeight: "bold" }}
+                >
+                  ~ Nilanga Karunarathne
+                </p>
+                <div
+                  style={{
+                    position: "absolute",
+                    bottom: "-5px",
+                    left: "20px",
+                    width: "200px",
+                    height: "2px",
+                    background:
+                      "linear-gradient(to right, #004D4D, transparent)",
+                  }}
+                ></div>
               </div>
             </div>
           </div>
