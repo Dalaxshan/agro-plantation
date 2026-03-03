@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="container">
           <div className="row">
             {/* Company Info */}
-            <div className="col-sm-6 col-md-4">
+            <div className="col-sm-6 col-md-3">
               <div className="widget widget-text">
                 <div className="mb-30">
                   <img
@@ -71,7 +71,7 @@ const Footer = () => {
             </div>
 
             {/* Gallery - ALL ORIGINAL IMAGE PATHS PRESERVED EXACTLY */}
-            <div className="col-sm-6 col-md-3">
+            <div className="col-sm-6 col-md-4">
               <div className="widget widget-text">
                 <h5 className="widget-title">Gallery</h5>
                 <ul className="footer-gallery" id="footer-gallery">
@@ -79,7 +79,7 @@ const Footer = () => {
                     <div className="footer-gallery-box">
                       <div className="skin-overlay" />
                       <img
-                        src="/images/gallery/01.jpg"
+                        src="/images/gallery/01.png"
                         alt="gallery-1"
                       />
                       <div className="zoom-wrap text-center">
@@ -87,7 +87,7 @@ const Footer = () => {
                           <li>
                             <a
                               className="alpha-lightbox"
-                              href="/images/gallery/01-lg.jpg"
+                              href="/images/gallery/01.png"
                             >
                               <i className="fa fa-search" />
                             </a>
@@ -100,7 +100,7 @@ const Footer = () => {
                     <div className="footer-gallery-box">
                       <div className="skin-overlay" />
                       <img
-                        src="/images/gallery/02.jpg"
+                        src="/images/gallery/02.png"
                         alt="gallery-2"
                       />
                       <div className="zoom-wrap text-center">
@@ -108,7 +108,7 @@ const Footer = () => {
                           <li>
                             <a
                               className="alpha-lightbox"
-                              href="/images/gallery/02-lg.jpg"
+                              href="/images/gallery/02.png"
                             >
                               <i className="fa fa-search" />
                             </a>
@@ -121,7 +121,7 @@ const Footer = () => {
                     <div className="footer-gallery-box">
                       <div className="skin-overlay" />
                       <img
-                        src="/images/gallery/03.jpg"
+                        src="/images/gallery/03.png"
                         alt="gallery-3"
                       />
                       <div className="zoom-wrap text-center">
@@ -129,7 +129,7 @@ const Footer = () => {
                           <li>
                             <a
                               className="alpha-lightbox"
-                              href="/images/gallery/03-lg.jpg"
+                              href="/images/gallery/03.png"
                             >
                               <i className="fa fa-search" />
                             </a>
@@ -142,7 +142,7 @@ const Footer = () => {
                     <div className="footer-gallery-box">
                       <div className="skin-overlay" />
                       <img
-                        src="/images/gallery/04.jpg"
+                        src="/images/gallery/04.png"
                         alt="gallery-4"
                       />
                       <div className="zoom-wrap text-center">
@@ -150,7 +150,7 @@ const Footer = () => {
                           <li>
                             <a
                               className="alpha-lightbox"
-                              href="/images/gallery/04-lg.jpg"
+                              href="/images/gallery/04.png"
                             >
                               <i className="fa fa-search" />
                             </a>
@@ -163,7 +163,7 @@ const Footer = () => {
                     <div className="footer-gallery-box">
                       <div className="skin-overlay" />
                       <img
-                        src="/images/gallery/05.jpg"
+                        src="/images/gallery/05.png"
                         alt="gallery-5"
                       />
                       <div className="zoom-wrap text-center">
@@ -171,7 +171,7 @@ const Footer = () => {
                           <li>
                             <a
                               className="alpha-lightbox"
-                              href="/images/gallery/05-lg.jpg"
+                              href="/images/gallery/05.png"
                             >
                               <i className="fa fa-search" />
                             </a>
@@ -184,7 +184,7 @@ const Footer = () => {
                     <div className="footer-gallery-box">
                       <div className="skin-overlay" />
                       <img
-                        src="/images/gallery/06.jpg"
+                        src="/images/gallery/06.png"
                         alt="gallery-6"
                       />
                       <div className="zoom-wrap text-center">
@@ -192,7 +192,7 @@ const Footer = () => {
                           <li>
                             <a
                               className="alpha-lightbox"
-                              href="/images/gallery/06-lg.jpg"
+                              href="/images/gallery/06.png"
                             >
                               <i className="fa fa-search" />
                             </a>
@@ -205,7 +205,7 @@ const Footer = () => {
                     <div className="footer-gallery-box">
                       <div className="skin-overlay" />
                       <img
-                        src="/images/gallery/07.jpg"
+                        src="/images/gallery/07.png"
                         alt="gallery-7"
                       />
                       <div className="zoom-wrap text-center">
@@ -213,7 +213,7 @@ const Footer = () => {
                           <li>
                             <a
                               className="alpha-lightbox"
-                              href="/images/gallery/07-lg.jpg"
+                              href="/images/gallery/07.png"
                             >
                               <i className="fa fa-search" />
                             </a>
@@ -226,7 +226,7 @@ const Footer = () => {
                     <div className="footer-gallery-box">
                       <div className="skin-overlay" />
                       <img
-                        src="/images/gallery/08.jpg"
+                        src="/images/events/af3.webp"
                         alt="gallery-8"
                       />
                       <div className="zoom-wrap text-center">
@@ -234,7 +234,7 @@ const Footer = () => {
                           <li>
                             <a
                               className="alpha-lightbox"
-                              href="/images/gallery/08-lg.jpg"
+                              href="/images/events/af3.webp"
                             >
                               <i className="fa fa-search" />
                             </a>

@@ -17,7 +17,7 @@ const OurPrincipalSection = () => {
       </div>
       <div className="row mt-0">
         <div className="col-md-4 col-sm-12">
-          <div className="pt-100 pb-100 pull-left">
+          <div className="pt-50 pb-0 pull-left">
             <div
               className="feature-box text-left wow fadeInLeft"
               data-wow-delay="0.1s"
@@ -56,7 +56,7 @@ const OurPrincipalSection = () => {
           />
         </div>
         <div className="col-md-4 col-sm-12">
-          <div className="pt-100 pb-100 pull-left">
+          <div className="pt-50 pb-100 pull-left">
             <div
               className="feature-box-right text-right wow fadeInRight"
               data-wow-delay="0.1s"
