@@ -7,6 +7,7 @@ import EventsPostSection from "./EventsPostSection";
 import "swiper/css";
 
 import "swiper/css/navigation";
+import EventsGalleriesSection from "./EventsGalleriesSection";
 
 const EventDetailSection = () => {
   const location = useLocation();
@@ -45,7 +46,7 @@ const EventDetailSection = () => {
                             className="img-responsive w-100"
                             src={img}
                             alt={`${currentEvent.title} - ${index + 1}`}
-                            style={{ height: "400px", objectFit: "cover" }}
+                            style={{ height: "500px", objectFit: "cover" }}
                           />
                         </SwiperSlide>
                       ))}
@@ -152,8 +153,13 @@ const EventDetailSection = () => {
               </div>
             </div>
           </div>
+
+           {/*Galleries */}
+      <EventsGalleriesSection/>
         </div>
       </section>
+
+     
     </>
   );
 };
