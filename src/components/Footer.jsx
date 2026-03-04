@@ -23,7 +23,7 @@ const Footer = () => {
                     Rebranding Sri Lanka's Flavour as a Vanilla Exporter
                   </p>
                   <p className="mb-10">
-                    <i className="fas fa-phone blue-color mr-10" /> +94 11 2878766
+                    <i className="fas fa-phone blue-color mr-10" /> +94 (70) 520 0900
                   </p>
                   <p className="mb-10">
                     <i className="fas fa-map-marker-alt blue-color mr-10" />
