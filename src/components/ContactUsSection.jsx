@@ -33,12 +33,12 @@ const ContactUsSection = () => {
       {/* Page Title Section End */}
 
       {/* Contact Us Start */}
-      <section className="contact-us pt-50 pb-50">
+      <section className="contact-us pt-0 pb-50">
         <div className="container">
           <OurBrandsSection />
           <div className="row mt-0">
             {/* Contact Form */}
-            <div className="col-md-8">
+            <div className="col-md-8 pb-30">
               <form
                 name="contact-form"
                 id="contact-form"
@@ -124,12 +124,12 @@ const ContactUsSection = () => {
             </div>
 
             {/* Contact Info Sidebar */}
-            <div className="col-md-4">
+            <div className="col-md-4 ">
               <h3>Postal Location</h3>
               <address>
                 No.253 Kaduwela Road Thalangama Koswatta Battaramulla
                 <br />
-                <abbr title="Phone">PN:</abbr> (+94) 11 287-8766
+                <abbr title="Phone">PN:</abbr> +94 (70) 520 0900
                 <br />
                 <a href="mailto:#">info@agroventuresplantations.com</a>
               </address>
