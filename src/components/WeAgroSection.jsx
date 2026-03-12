@@ -13,7 +13,7 @@ const WeAgroSection = () => {
               WE ARE
             </h1>
               <h2 className="mt-10 oswald-font font-100">
-                AgroVenture Plantation
+                AgroVentures Plantations
               </h2>
               <div className="mt-30">
                 <p>

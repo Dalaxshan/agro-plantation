@@ -16,14 +16,16 @@ const AboutHeaderSection = () => {
                 About
               </h3>
               <h1 className="white-color oswald-font text-uppercase">
-               Agroventure Plantation
+               Agroventures Plantations
               </h1>
               {/* <h4 className="white-color oswald-font font-30px mt-30 text-uppercase">
                 Creative solutions to improve your business
               </h4> */}
               <a
-                href="https://www.youtube.com/watch?v=LP48R_Jmao8"
+                href="https://www.youtube.com/watch?v=DyPH-yGnL9w"
                 className="btn btn-white btn-circle popup-youtube mt-30"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 Our Journey{" "}
                 <span className="icon">
