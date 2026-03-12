@@ -94,13 +94,22 @@ const Footer = () => {
           <div className="row">
             <div className="col-md-8 col-xs-12">
               <div className="copy-right">
-             © All Rights Reserved, Business Media International (Pvt) Ltd. 2026. Designed by <Link to="https://www.ventrax.lk/" target="_blank" rel="noopener noreferrer">
-                Ventrax
-              </Link>
+             © 2026.<Link to="https://www.ventrax.lk/" target="_blank" rel="noopener noreferrer">
+                Ventrax.lk
+              </Link> - All Right Reserved
               </div>
             </div>
             <div className="col-md-4 col-xs-12">
               <ul className="social-media">
+                 <li>
+                  <a
+                    href="https://www.youtube.com/@AgroVenturesPlantations.Deshan"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <i className="fa-brands fa-youtube" />
+                  </a>
+                </li>
                 <li>
                   <a
                     href="https://www.facebook.com/agroventuresplantations?_rdc=1&_rdr#"
