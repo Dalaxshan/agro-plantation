@@ -20,7 +20,7 @@ const AboutHeaderSection = () => {
           <div className="hero-text white-color">
             <div className="container text-center">
               <h3 className="white-color oswald-font font-30px text-uppercase">
-                AboutEW
+                About
               </h3>
               <h1 className="white-color oswald-font text-uppercase">
                 Agroventures Plantations
