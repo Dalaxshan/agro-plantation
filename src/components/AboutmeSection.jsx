@@ -13,7 +13,7 @@ const AboutMeSection = () => {
             />
             <div className="director-image-overlay" />
             <div className="director-badge">
-              <div className="director-badge-icon">🌱</div>
+              {/* <div className="director-badge-icon">🌱</div> */}
               <div>
                 <div className="director-badge-label">Group Chairman</div>
                 <div className="director-badge-name">
