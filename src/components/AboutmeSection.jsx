@@ -9,13 +9,13 @@ const AboutMeSection = () => {
           <div className="col-md-5 col-sm-12 director-image-col">
             <img
               src="/images/director1.png"
-              alt="Director – Mr. Nilanga Karunarathne"
+              alt="Chairman – Mr. Nilanga Karunarathne"
             />
             <div className="director-image-overlay" />
             <div className="director-badge">
               <div className="director-badge-icon">🌱</div>
               <div>
-                <div className="director-badge-label">Director</div>
+                <div className="director-badge-label">Group Chairman</div>
                 <div className="director-badge-name">
                   Mr. Nilanga Karunarathne
                 </div>
@@ -30,7 +30,7 @@ const AboutMeSection = () => {
             </span>
 
             <div className="director-content-inner">
-              <span className="director-eyebrow">Director's Message</span>
+              <span className="director-eyebrow">Group Chairman's Message</span>
 
               <h2 className="director-title">
                 Growing Sri Lanka's
